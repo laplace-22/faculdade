@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Roboto', Arial, sans-serif;
-    background-color: #f2f4f8;
+    background-color: #dce5f8;
     color: #07152e;
     line-height: 1.6;
 }
@@ -15,7 +15,7 @@ body {
 #container {
     width: 92%;
     margin: 30px auto;
-    background-color: #ffffff;
+    background-color: #c1c1c1;
     border-radius: 14px;
     overflow: hidden;
     box-shadow: 0 8px 35px rgba(0, 0, 0, 0.10);
@@ -215,7 +215,7 @@ nav {
 }
 
 .card-destaque a:hover {
-    background-color: #e31837;
+    background-color: #1fe318;
 }
 
 .chamada-acao {
